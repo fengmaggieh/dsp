@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> I installed Python 3 because this is the latest and recommended version for the pre-work and upcoming class.
+>> I installed Python 3 because this is the latest and recommended version for the pre-work and upcoming class. Python 2 is being phased by 2020 and cannot be used for Software development. Python 3 has more features and better compatibility. That's why I prefer Python 3.
 
 ### Q2. Which Python Version Installed   
 
